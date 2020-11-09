@@ -13,10 +13,7 @@ require 'phpmailer/src/PHPMailer.php';
 // Set the recipient email address here
 $recipients = array();
 
-$recipients[] = array(
-	'email' => 'ashleydesignia@gmail.com',
-	'name' => 'Ashley Design'
-);
+$recipient = "ashleyphotographyia25@gmail.com";
 
 // Set the sender email address here
 $sender = array(
